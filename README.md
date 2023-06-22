@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akemi</h1>
-<h3 align="center">Also known as my first name, Júlia, I'm new to programming but excited about my long journey! I'm 19 years old and I was born in the interior of São Paulo. I am currently in the second period in Information Systems at the Federal University of Uberlândia</h3>
+<h3 align="center">Also known as my first name, Júlia, I'm new to programming but excited about my long journey! I'm 19 years old and I was born in the interior of São Paulo. I am currently in the third period in Information Systems at the Federal University of Uberlândia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
