@@ -27,7 +27,6 @@
 </div>
   
   ##
- ##
    
 ~~~c
 printf("Hello guys, welcome!"); 
