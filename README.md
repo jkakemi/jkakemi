@@ -19,7 +19,6 @@
 - 🎯 Passionate about Graph Theory and Competitive Programming  
 - 📈 Always chasing growth and building impactful projects
 
-
 <h3 align="left">🛠️ Languages & Tools</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC" />
@@ -40,6 +39,11 @@
     <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
   </p>
 
+<h3>📫 Contact</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/LinkedIn-jkakemi-blue?style=for-the-badge&logo=linkedin" />
+</p>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -52,9 +56,3 @@
   </a>
 
 </div>
-
-### 📫 Contact
-<p align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-jkakemi-blue?style=for-the-badge&logo=linkedin" />
-</p>
-
