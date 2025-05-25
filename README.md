@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </p>
+
 <p align="center">
   <i>Competitive Programmer | Passionate Researcher | AI Enthusiast | Graphs Lover</i>
 </p>
