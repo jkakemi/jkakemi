@@ -41,7 +41,9 @@
 
 <h3>📫 Contact</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-jkakemi-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/jkakemi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-jkakemi-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
 </p>
 
 ## 📊 GitHub Stats
