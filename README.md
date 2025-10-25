@@ -15,7 +15,7 @@
 
 <h3>💬 About me</h3>
 
-- 🎓 7th-semester Information Systems student at UFU  
+- 🎓 8th-semester Information Systems student at UFU  
 - 🚀 Focused on Applied AI and Recommender Systems  
 - 🎯 Passionate about Graph Theory and Competitive Programming  
 - 📈 Always chasing growth and building impactful projects
