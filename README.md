@@ -26,15 +26,10 @@
     <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B&logoColor=00599C" />
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=007396" />
-    <img src="https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift&logoColor=F05138" />
     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=3776AB" />
     <img src="https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=E34F26" />
     <img src="https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3&logoColor=1572B6" />
-    <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" />
     <img src="https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot" />
-    <img src="https://img.shields.io/badge/-Vite-05122A?style=flat&logo=vite" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-05122A?style=flat&logo=tailwind-css" />
-    <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql" />
     <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" />
     <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" />
     <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
